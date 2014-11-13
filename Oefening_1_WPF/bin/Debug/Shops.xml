@@ -1,0 +1,1069 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<bedrijvengids_buurtwinkels-en-supermarkten version="1.0" timestamp="1378214275">
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>REDDAHI</bedrijfsnaam>
+    <straat>Loodwitstraat</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27848335609236</geo_x>
+    <geo_y>50.83432196579370</geo_y>
+    <address>Loodwitstraat 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>EUROCITY</bedrijfsnaam>
+    <straat>Waterpoort</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26402065087304</geo_x>
+    <geo_y>50.82645299342060</geo_y>
+    <address>Waterpoort 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Firma Antoon Dewulf en zoon</bedrijfsnaam>
+    <straat>Meensesteenweg</straat>
+    <huisnr>98</huisnr>
+    <busnr></busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Bissegem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24077262555150</geo_x>
+    <geo_y>50.82738333278420</geo_y>
+    <address>Meensesteenweg 98</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Arub Indian Food Store</bedrijfsnaam>
+    <straat>Overleiestraat</straat>
+    <huisnr>33</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25996958367135</geo_x>
+    <geo_y>50.83260386957530</geo_y>
+    <address>Overleiestraat 33</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>WAHAB SUPERMARKET</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>14</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27184154503891</geo_x>
+    <geo_y>50.82593571431930</geo_y>
+    <address>Zwevegemsestraat 14</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>OKAY BISSEGEM</bedrijfsnaam>
+    <straat>Meensesteenweg</straat>
+    <huisnr>210</huisnr>
+    <busnr>A</busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Bissegem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23449782669958</geo_x>
+    <geo_y>50.82540368608670</geo_y>
+    <address>Meensesteenweg 210 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Kruidvat Kuurne</bedrijfsnaam>
+    <straat>Ringlaan</straat>
+    <huisnr>34</huisnr>
+    <busnr>330</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26220051443223</geo_x>
+    <geo_y>50.84555421811110</geo_y>
+    <address>Ringlaan 34 330</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Proxy Delhaize</bedrijfsnaam>
+    <straat>Steenpoort</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26937281334667</geo_x>
+    <geo_y>50.82685930605440</geo_y>
+    <address>Steenpoort 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>ALDI MARKT</bedrijfsnaam>
+    <straat>Gullegemsestraat</straat>
+    <huisnr>22</huisnr>
+    <busnr></busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22853431560172</geo_x>
+    <geo_y>50.84447400229460</geo_y>
+    <address>Gullegemsestraat 22</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Vanhoutteghem, Patrick</bedrijfsnaam>
+    <straat>Abdijmolenweg</straat>
+    <huisnr>44</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Marke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24414321124160</geo_x>
+    <geo_y>50.80492395275280</geo_y>
+    <address>Abdijmolenweg 44</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Vanhalst, Micheline</bedrijfsnaam>
+    <straat>Beheerstraat</straat>
+    <huisnr>2</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25848025101762</geo_x>
+    <geo_y>50.82611118407330</geo_y>
+    <address>Beheerstraat 2 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Biotheek Vanneste</bedrijfsnaam>
+    <straat>Hektor Casteleinstraat</straat>
+    <huisnr>43</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Marke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22919796286609</geo_x>
+    <geo_y>50.80729432801800</geo_y>
+    <address>Hektor Casteleinstraat 43</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Schoutetens, Luc</bedrijfsnaam>
+    <straat>Parkietenlaan</straat>
+    <huisnr>27</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27535447264580</geo_x>
+    <geo_y>50.83932393724960</geo_y>
+    <address>Parkietenlaan 27</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>AD DELHAIZE</bedrijfsnaam>
+    <straat>Mortagnelaan</straat>
+    <huisnr>117</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Bellegem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27398239383827</geo_x>
+    <geo_y>50.77418601604190</geo_y>
+    <address>Mortagnelaan 117</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Vandael, Lucrèse</bedrijfsnaam>
+    <straat>Schoolstraat</straat>
+    <huisnr>26</huisnr>
+    <busnr></busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23365026568439</geo_x>
+    <geo_y>50.84019644056340</geo_y>
+    <address>Schoolstraat 26</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>ALDI MARKT</bedrijfsnaam>
+    <straat>Sint-Denijsestraat</straat>
+    <huisnr>103</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27390278307887</geo_x>
+    <geo_y>50.82086452365240</geo_y>
+    <address>Sint-Denijsestraat 103</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>ALDI MARKT</bedrijfsnaam>
+    <straat>Gentsesteenweg</straat>
+    <huisnr>68</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27878176105212</geo_x>
+    <geo_y>50.83308494658620</geo_y>
+    <address>Gentsesteenweg 68</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Mouton, Patrick</bedrijfsnaam>
+    <straat>Rollegemkerkstraat</straat>
+    <huisnr>67</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Rollegem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25747070184098</geo_x>
+    <geo_y>50.76680204093440</geo_y>
+    <address>Rollegemkerkstraat 67</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>VANDERERFVEN</bedrijfsnaam>
+    <straat>Doorniksewijk</straat>
+    <huisnr>74</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26869361000361</geo_x>
+    <geo_y>50.82099918634620</geo_y>
+    <address>Doorniksewijk 74</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>TRAITEUR SYMFONIE</bedrijfsnaam>
+    <straat>Sint-Jansplein</straat>
+    <huisnr>14</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28199577168202</geo_x>
+    <geo_y>50.82946461522030</geo_y>
+    <address>Sint-Jansplein 14</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>&#039;T Boerke</bedrijfsnaam>
+    <straat>Veldstraat</straat>
+    <huisnr>133</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27857427982757</geo_x>
+    <geo_y>50.82757991899170</geo_y>
+    <address>Veldstraat 133</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Eurospar</bedrijfsnaam>
+    <straat>Engelse Wandeling</straat>
+    <huisnr>1</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24951946079468</geo_x>
+    <geo_y>50.81308764446210</geo_y>
+    <address>Engelse Wandeling 1 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Voedingszaak &#039;t Bergske</bedrijfsnaam>
+    <straat>Bergstraat</straat>
+    <huisnr>38</huisnr>
+    <busnr></busnr>
+    <postcode>8511</postcode>
+    <deelgemeente>Aalbeke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23221607343765</geo_x>
+    <geo_y>50.77755452107170</geo_y>
+    <address>Bergstraat 38</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Voeding Rosa</bedrijfsnaam>
+    <straat>Wandelingstraat</straat>
+    <huisnr>50</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27740157895853</geo_x>
+    <geo_y>50.82587429816270</geo_y>
+    <address>Wandelingstraat 50</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>&#039;T WINKELTJE</bedrijfsnaam>
+    <straat>&#039;t Hoge</straat>
+    <huisnr>39</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28567667396798</geo_x>
+    <geo_y>50.79937132677420</geo_y>
+    <address>&#039;t Hoge 39</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>DE BOOMGAARD</bedrijfsnaam>
+    <straat>Rekkemsestraat</straat>
+    <huisnr>24</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Marke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23053402568200</geo_x>
+    <geo_y>50.80995775401170</geo_y>
+    <address>Rekkemsestraat 24</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>LIDL</bedrijfsnaam>
+    <straat>Sint-Sebastiaanslaan</straat>
+    <huisnr>3</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26098711196749</geo_x>
+    <geo_y>50.82264106132470</geo_y>
+    <address>Sint-Sebastiaanslaan 3 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Carrefour Market</bedrijfsnaam>
+    <straat>Burgemeester Vercruysselaan</straat>
+    <huisnr>22</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26493608940380</geo_x>
+    <geo_y>50.83583128946670</geo_y>
+    <address>Burgemeester Vercruysselaan 22</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Den Eyck</bedrijfsnaam>
+    <straat>Voorstraat</straat>
+    <huisnr>8</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27092494984544</geo_x>
+    <geo_y>50.82750138355730</geo_y>
+    <address>Voorstraat 8</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>RAHMAN SUPERMARKET</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>48</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27205064469025</geo_x>
+    <geo_y>50.82518605985510</geo_y>
+    <address>Zwevegemsestraat 48</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>RAHMAN SUPERMARKET</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>33</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27258064075949</geo_x>
+    <geo_y>50.82528451591520</geo_y>
+    <address>Zwevegemsestraat 33</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>AL RAHMAN</bedrijfsnaam>
+    <straat>Doorniksestraat</straat>
+    <huisnr>57</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26787569281034</geo_x>
+    <geo_y>50.82538429950240</geo_y>
+    <address>Doorniksestraat 57</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>BIOMARKT</bedrijfsnaam>
+    <straat>&#039;t Hoge</straat>
+    <huisnr>17</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28475894414158</geo_x>
+    <geo_y>50.80090562869840</geo_y>
+    <address>&#039;t Hoge 17</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>PRIMA MARKE</bedrijfsnaam>
+    <straat>Vagevuurstraat</straat>
+    <huisnr>11</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Marke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23408939581826</geo_x>
+    <geo_y>50.80645169306790</geo_y>
+    <address>Vagevuurstraat 11</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Voeding Hilde</bedrijfsnaam>
+    <straat>Cipreslaan</straat>
+    <huisnr>6</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.29228969402570</geo_x>
+    <geo_y>50.82459587184340</geo_y>
+    <address>Cipreslaan 6</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>RIVAN</bedrijfsnaam>
+    <straat>Beekstraat</straat>
+    <huisnr>84</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28506514104998</geo_x>
+    <geo_y>50.81829710657180</geo_y>
+    <address>Beekstraat 84</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>DEN DRUYVELAER</bedrijfsnaam>
+    <straat>Sterrestraat</straat>
+    <huisnr>32</huisnr>
+    <busnr></busnr>
+    <postcode>8511</postcode>
+    <deelgemeente>Aalbeke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22495660345095</geo_x>
+    <geo_y>50.77559582159810</geo_y>
+    <address>Sterrestraat 32</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>F V GEZUSTERS DE JONGHE</bedrijfsnaam>
+    <straat>Lauwsestraat</straat>
+    <huisnr>3</huisnr>
+    <busnr></busnr>
+    <postcode>8511</postcode>
+    <deelgemeente>Aalbeke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22903881350976</geo_x>
+    <geo_y>50.77823662404460</geo_y>
+    <address>Lauwsestraat 3</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>ANSEELE EN ZOON</bedrijfsnaam>
+    <straat>Dennenlaan</straat>
+    <huisnr>2</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28976758976198</geo_x>
+    <geo_y>50.82762048213900</geo_y>
+    <address>Dennenlaan 2 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>AD DELHAIZE</bedrijfsnaam>
+    <straat>Kortrijksestraat</straat>
+    <huisnr>93</huisnr>
+    <busnr>A</busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23578360500896</geo_x>
+    <geo_y>50.83993385740250</geo_y>
+    <address>Kortrijksestraat 93 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Bouvry, Paul</bedrijfsnaam>
+    <straat>Morinnestraat</straat>
+    <huisnr>49</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.30926108069012</geo_x>
+    <geo_y>50.80866998604990</geo_y>
+    <address>Morinnestraat 49</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>De Baer, Frans</bedrijfsnaam>
+    <straat>Zwaluwenlaan</straat>
+    <huisnr>5</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.29904567441376</geo_x>
+    <geo_y>50.81624795619160</geo_y>
+    <address>Zwaluwenlaan 5</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>PAIN PERDU</bedrijfsnaam>
+    <straat>Gouden-Rivierlaan</straat>
+    <huisnr>1</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26986016661244</geo_x>
+    <geo_y>50.84233837123790</geo_y>
+    <address>Gouden-Rivierlaan 1</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Bio-Planet Kortrijk</bedrijfsnaam>
+    <straat>Brugsesteenweg</straat>
+    <huisnr>65</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26132102655101</geo_x>
+    <geo_y>50.83725126047460</geo_y>
+    <address>Brugsesteenweg 65</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Colruyt Kortrijk</bedrijfsnaam>
+    <straat>Sint-Sebastiaanslaan</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25978916651626</geo_x>
+    <geo_y>50.82285189760330</geo_y>
+    <address>Sint-Sebastiaanslaan 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>&#039;T KRUIDENIERTJE</bedrijfsnaam>
+    <straat>Aalbeeksesteenweg</straat>
+    <huisnr>13</huisnr>
+    <busnr>B</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25872216915039</geo_x>
+    <geo_y>50.82181328173290</geo_y>
+    <address>Aalbeeksesteenweg 13 B</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Kruidvat Kortrijk</bedrijfsnaam>
+    <straat>Lange Steenstraat</straat>
+    <huisnr>28</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26889007645294</geo_x>
+    <geo_y>50.82649965377770</geo_y>
+    <address>Lange Steenstraat 28</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Café Sint-Elooi</bedrijfsnaam>
+    <straat>Tombroekmolenstraat</straat>
+    <huisnr>6</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Rollegem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26449730522943</geo_x>
+    <geo_y>50.75080926892640</geo_y>
+    <address>Tombroekmolenstraat 6</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>HUYGHE EN STADSBADER</bedrijfsnaam>
+    <straat>Parkietenlaan</straat>
+    <huisnr>7</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27171321216890</geo_x>
+    <geo_y>50.83813736307220</geo_y>
+    <address>Parkietenlaan 7</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Rahman Supermarket</bedrijfsnaam>
+    <straat>Pluimstraat</straat>
+    <huisnr>17</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27337416640279</geo_x>
+    <geo_y>50.82528203964850</geo_y>
+    <address>Pluimstraat 17</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Rahman Supermarket</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>35</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27247807017946</geo_x>
+    <geo_y>50.82523950359960</geo_y>
+    <address>Zwevegemsestraat 35</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>NINGARHAR</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>19</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27223100332331</geo_x>
+    <geo_y>50.82573041552820</geo_y>
+    <address>Zwevegemsestraat 19</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>De Baets, Rosette</bedrijfsnaam>
+    <straat>Budastraat</straat>
+    <huisnr>10</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26418343904385</geo_x>
+    <geo_y>50.83013058449300</geo_y>
+    <address>Budastraat 10</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>JUSTINE</bedrijfsnaam>
+    <straat>Bissegemsestraat</straat>
+    <huisnr>8</huisnr>
+    <busnr></busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24443494599523</geo_x>
+    <geo_y>50.83150121044280</geo_y>
+    <address>Bissegemsestraat 8</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>BART SMIT SPEELGOEDPALEIZEN BELGIE NV</bedrijfsnaam>
+    <straat>Ringlaan</straat>
+    <huisnr>34</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26220051443223</geo_x>
+    <geo_y>50.84555421811110</geo_y>
+    <address>Ringlaan 34</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>SUPER MOJI</bedrijfsnaam>
+    <straat>Sint-Jansstraat</straat>
+    <huisnr>23</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27124827269338</geo_x>
+    <geo_y>50.82715018175410</geo_y>
+    <address>Sint-Jansstraat 23</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Chitkara Durga</bedrijfsnaam>
+    <straat>Oudenaardsesteenweg</straat>
+    <huisnr>265</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.28907487592956</geo_x>
+    <geo_y>50.82106271625330</geo_y>
+    <address>Oudenaardsesteenweg 265</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Natuurvoeding Bio Ambrozijn</bedrijfsnaam>
+    <straat>Moeskroensesteenweg</straat>
+    <huisnr>152</huisnr>
+    <busnr></busnr>
+    <postcode>8511</postcode>
+    <deelgemeente>Aalbeke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22710040295499</geo_x>
+    <geo_y>50.77583610489950</geo_y>
+    <address>Moeskroensesteenweg 152</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>DELHAIZE - KORTRIJK NOORD</bedrijfsnaam>
+    <straat>Gentsesteenweg</straat>
+    <huisnr>50</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27722283325982</geo_x>
+    <geo_y>50.83205002781340</geo_y>
+    <address>Gentsesteenweg 50</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>DELHAIZE - ST-ROCHUS</bedrijfsnaam>
+    <straat>Pater Beckstraat</straat>
+    <huisnr>47</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26708641285165</geo_x>
+    <geo_y>50.81998524816350</geo_y>
+    <address>Pater Beckstraat 47</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>STOCK KOOIGEM</bedrijfsnaam>
+    <straat>Doornikserijksweg</straat>
+    <huisnr>371</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Kooigem</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.31999052007120</geo_x>
+    <geo_y>50.74755141600150</geo_y>
+    <address>Doornikserijksweg 371</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>TRUONG SON - ALGEMENE EN AZIATISCHE VOEDING</bedrijfsnaam>
+    <straat>Moorseelsestraat</straat>
+    <huisnr>9</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25257403269560</geo_x>
+    <geo_y>50.83202666728210</geo_y>
+    <address>Moorseelsestraat 9</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Vandererfven  delicatessen</bedrijfsnaam>
+    <straat>Doorniksewijk</straat>
+    <huisnr>3</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26866033295216</geo_x>
+    <geo_y>50.82302984213780</geo_y>
+    <address>Doorniksewijk 3</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>AFLAR</bedrijfsnaam>
+    <straat>Zwevegemsestraat</straat>
+    <huisnr>55</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27351308880285</geo_x>
+    <geo_y>50.82431415604420</geo_y>
+    <address>Zwevegemsestraat 55</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Carrefour Market</bedrijfsnaam>
+    <straat>Leiestraat</straat>
+    <huisnr>12</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26528173164543</geo_x>
+    <geo_y>50.82837715506980</geo_y>
+    <address>Leiestraat 12</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>MILET</bedrijfsnaam>
+    <straat>Aalbeeksesteenweg</straat>
+    <huisnr>54</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25832814017547</geo_x>
+    <geo_y>50.82192840721860</geo_y>
+    <address>Aalbeeksesteenweg 54 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>MARIAUL &amp; FILS</bedrijfsnaam>
+    <straat>Vier Linden</straat>
+    <huisnr>1</huisnr>
+    <busnr>C</busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24233536510726</geo_x>
+    <geo_y>50.85065074632290</geo_y>
+    <address>Vier Linden 1 C</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>A.J.S.</bedrijfsnaam>
+    <straat>Brugsesteenweg</straat>
+    <huisnr>114</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26404026007734</geo_x>
+    <geo_y>50.83965668983020</geo_y>
+    <address>Brugsesteenweg 114</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Liris</bedrijfsnaam>
+    <straat>Oude Ieperseweg</straat>
+    <huisnr>90</huisnr>
+    <busnr></busnr>
+    <postcode>8501</postcode>
+    <deelgemeente>Heule</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.23000039150095</geo_x>
+    <geo_y>50.83664844785080</geo_y>
+    <address>Oude Ieperseweg 90</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Deconinck</bedrijfsnaam>
+    <straat>Pottelberg</straat>
+    <huisnr>130</huisnr>
+    <busnr></busnr>
+    <postcode>8510</postcode>
+    <deelgemeente>Marke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24908491550393</geo_x>
+    <geo_y>50.81089338055830</geo_y>
+    <address>Pottelberg 130</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>STATIONSHOP</bedrijfsnaam>
+    <straat>Tolstraat</straat>
+    <huisnr>9</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26274034911783</geo_x>
+    <geo_y>50.82483161705640</geo_y>
+    <address>Tolstraat 9</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>BART SMIT</bedrijfsnaam>
+    <straat>Sint-Jansstraat</straat>
+    <huisnr>22</huisnr>
+    <busnr>1</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.27199565715798</geo_x>
+    <geo_y>50.82699714071090</geo_y>
+    <address>Sint-Jansstraat 22 1</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>SADIK HALAC</bedrijfsnaam>
+    <straat>Stationsplein</straat>
+    <huisnr>4</huisnr>
+    <busnr>A</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26460838689512</geo_x>
+    <geo_y>50.82522196591300</geo_y>
+    <address>Stationsplein 4 A</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>All 4 Nature</bedrijfsnaam>
+    <straat>Steenpoort</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26937281334667</geo_x>
+    <geo_y>50.82685930605440</geo_y>
+    <address>Steenpoort 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Carrefour Market                               Kortrijk Zuid (Walle)</bedrijfsnaam>
+    <straat>Walle</straat>
+    <huisnr>2</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26928650056828</geo_x>
+    <geo_y>50.81652618412920</geo_y>
+    <address>Walle 2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>HEER</bedrijfsnaam>
+    <straat>Noordstraat</straat>
+    <huisnr>30</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.25571229958517</geo_x>
+    <geo_y>50.83067104013070</geo_y>
+    <address>Noordstraat 30</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>ALDI MARKT</bedrijfsnaam>
+    <straat>Engelse Wandeling</straat>
+    <huisnr>2</huisnr>
+    <busnr>L2</busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.24584411847979</geo_x>
+    <geo_y>50.81403608015680</geo_y>
+    <address>Engelse Wandeling 2 L2</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Aria</bedrijfsnaam>
+    <straat>Brugsesteenweg</straat>
+    <huisnr>198</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26682355626344</geo_x>
+    <geo_y>50.84297608987630</geo_y>
+    <address>Brugsesteenweg 198</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Pizzeria Krishna</bedrijfsnaam>
+    <straat>Moeskroensesteenweg</straat>
+    <huisnr>120</huisnr>
+    <busnr></busnr>
+    <postcode>8511</postcode>
+    <deelgemeente>Aalbeke</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.22809849807759</geo_x>
+    <geo_y>50.77759902105690</geo_y>
+    <address>Moeskroensesteenweg 120</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Shop2be/Flower2go</bedrijfsnaam>
+    <straat>President Kennedylaan</straat>
+    <huisnr>4</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26595192351619</geo_x>
+    <geo_y>50.80144847793180</geo_y>
+    <address>President Kennedylaan 4</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Sm Kortrijk Ring</bedrijfsnaam>
+    <straat>Ringlaan</straat>
+    <huisnr>34</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26220051443223</geo_x>
+    <geo_y>50.84555421811110</geo_y>
+    <address>Ringlaan 34</address>
+  </company>
+  <company>
+    <feeds></feeds>
+    <bedrijfsnaam>Albert Heijn</bedrijfsnaam>
+    <straat>Ringlaan</straat>
+    <huisnr>34</huisnr>
+    <busnr></busnr>
+    <postcode>8500</postcode>
+    <deelgemeente>Kortrijk</deelgemeente>
+    <gemeente>Kortrijk</gemeente>
+    <geo_x>3.26220051443223</geo_x>
+    <geo_y>50.84555421811110</geo_y>
+    <address>Ringlaan 34</address>
+  </company>
+</bedrijvengids_buurtwinkels-en-supermarkten>

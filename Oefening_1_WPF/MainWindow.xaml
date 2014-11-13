@@ -1,0 +1,33 @@
+﻿<Window x:Class="Oefening_1_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:model="clr-namespace:Oefening_1_WPF.model"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Delete" CanExecute="CommandBinding_CanExecute" Executed="CommandBinding_Executed"/>
+        <CommandBinding Command="ApplicationCommands.Save" CanExecute="CommandBinding_CanExecute" Executed="CommandBinding_Executed"/>
+    </Window.CommandBindings>
+    <Window.Resources>
+        <model:Shop x:Key="shop">
+        </model:Shop>
+    </Window.Resources>
+    <Grid Name="Root">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Verwijderen" Command="ApplicationCommands.Delete"/>
+            <MenuItem Header="Controleer Wijzigingen" Command="ApplicationCommands.Save"/>
+        </Menu>
+        <DataGrid Name="dtgegevens" ItemsSource="{Binding Source={StaticResource shop}, Path=Shops}" AutoGenerateColumns="False" Grid.Row="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Naam"  Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Adres" Binding="{Binding Adress}" />
+                <DataGridTextColumn Header="Postcode" Binding="{Binding Zipcode}"/>
+                <DataGridTextColumn Header="Stad" Binding="{Binding City}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
